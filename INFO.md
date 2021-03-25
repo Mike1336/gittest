@@ -1,2 +1,2 @@
 git is awesome!
-new line
+Squash is real!
